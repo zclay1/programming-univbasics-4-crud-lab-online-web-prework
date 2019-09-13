@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   add_element_to_start_of_array = ["glasses", "hat", "shirt"]
-  add_element_to_start_of_array.unshift("pants")
+  add_element_to_start_of_array.unshift("wow")
   p add_element_to_start_of_array
 end
 
