@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["pajamas", "makeup"]
-  add_element_to_end_of_array << "deodorant"
+  add_element_to_end_of_array.push ("deodorant")
 end
 
 def add_element_to_start_of_array(array, element)
