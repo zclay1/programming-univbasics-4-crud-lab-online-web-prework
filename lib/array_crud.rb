@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = ["arrays!", "item2"]
-  item4 = remove_element_from_end_of_array.pop
+  item2 = remove_element_from_end_of_array.pop
   p remove_element_from_end_of_array 
   
 end
