@@ -21,7 +21,7 @@ end
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = ["item1", "item2", "item3", "item4"]
   item4 = remove_element_from_end_of_array.pop
-  p remove_element_from_end_of_array
+  p remove_element_from_end_of_array 
   
 end
 
